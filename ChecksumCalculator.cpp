@@ -1,6 +1,3 @@
-// TODO
-// 1. If the length of the two strings is not equal, then return -1.
-
 #include<bits/stdc++.h>
 using namespace std;
 
